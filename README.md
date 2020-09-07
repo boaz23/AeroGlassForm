@@ -1,8 +1,8 @@
 # AeroGlassForm
-DO NOT USE! 
-Was once intended to render an entire windows form with the windows 7 transparent glass color.
-Now just serves for my job applications.
-The rest text below was from a long time ago, kept for history reasons.
+DO NOT USE!  
+Was once intended to render an entire windows form with the windows 7 transparent glass color.  
+Now just serves for my job applications.  
+The rest text below was from a long time ago, kept for history reasons.  
 
 ---------------------------------------------------------------------------
 Provides a form that can uses the windows aero glass composition. Comes with extra things required like compatible controls.
